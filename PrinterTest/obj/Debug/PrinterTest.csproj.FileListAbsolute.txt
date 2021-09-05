@@ -1,0 +1,13 @@
+c:\users\prince&princesse\documents\visual studio 2015\Projects\PrinterTest\PrinterTest\bin\Debug\PrinterTest.exe.config
+c:\users\prince&princesse\documents\visual studio 2015\Projects\PrinterTest\PrinterTest\bin\Debug\PrinterTest.exe
+c:\users\prince&princesse\documents\visual studio 2015\Projects\PrinterTest\PrinterTest\bin\Debug\PrinterTest.pdb
+c:\users\prince&princesse\documents\visual studio 2015\Projects\PrinterTest\PrinterTest\obj\Debug\MainWindow.g.cs
+c:\users\prince&princesse\documents\visual studio 2015\Projects\PrinterTest\PrinterTest\obj\Debug\App.g.cs
+c:\users\prince&princesse\documents\visual studio 2015\Projects\PrinterTest\PrinterTest\obj\Debug\PrinterTest_MarkupCompile.cache
+c:\users\prince&princesse\documents\visual studio 2015\Projects\PrinterTest\PrinterTest\obj\Debug\PrinterTest_MarkupCompile.lref
+c:\users\prince&princesse\documents\visual studio 2015\Projects\PrinterTest\PrinterTest\obj\Debug\MainWindow.baml
+c:\users\prince&princesse\documents\visual studio 2015\Projects\PrinterTest\PrinterTest\obj\Debug\PrinterTest.g.resources
+c:\users\prince&princesse\documents\visual studio 2015\Projects\PrinterTest\PrinterTest\obj\Debug\PrinterTest.Properties.Resources.resources
+c:\users\prince&princesse\documents\visual studio 2015\Projects\PrinterTest\PrinterTest\obj\Debug\PrinterTest.csproj.GenerateResource.Cache
+c:\users\prince&princesse\documents\visual studio 2015\Projects\PrinterTest\PrinterTest\obj\Debug\PrinterTest.exe
+c:\users\prince&princesse\documents\visual studio 2015\Projects\PrinterTest\PrinterTest\obj\Debug\PrinterTest.pdb
